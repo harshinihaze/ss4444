@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f5f1ea;
+  color: #1f4d3a;
+}
+
+.hero {
+  padding: 80px;
+  text-align: center;
+  background: #1f4d3a;
+  color: white;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  background: #c6a769;
+  border: none;
+  cursor: pointer;
+}
+
+.menu, .games {
+  padding: 40px;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #374b35;
+  color: white;
+}
